@@ -19,7 +19,7 @@ function Header() {
                </div>
                {/* Right */}
                <div className="flex justify-end text-gray-500 items-center space-x-4">
-                    <div className="hidden lg:flex md:flex cursor-pointer items-center space-x-2">
+                    <div className="hidden md:flex cursor-pointer items-center space-x-2">
                          <span className="font-bold lg:text-sm md:text-xs">Become a host</span>
                          <TbWorld size={20} />
                     </div>
